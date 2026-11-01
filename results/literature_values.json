@@ -1,0 +1,43 @@
+{
+ "anwar_rf_multi": {
+  "value": 97.5,
+  "loc": "Anwar et al. 2025, Abstract; Results (multi-label); Table 6",
+  "note": "Random forest, multi-label classification, Kaggle 7,861-row file"
+ },
+ "anwar_best_multi": {
+  "value": 99.96,
+  "loc": "Anwar et al. 2025, Abstract; Results; Discussion (Introduction and Conclusion state 99.93)",
+  "note": "RF-LSTM tuned KNN ensemble"
+ },
+ "anwar_rf_det": {
+  "value": 99.72,
+  "loc": "Anwar et al. 2025, Abstract; Results (binary); Table 5",
+  "note": "Random forest, detection"
+ },
+ "anwar_split_test_pct": {
+  "value": 25,
+  "loc": "Anwar et al. 2025, Methodology, Data preprocessing",
+  "note": "75/25 split; four-fold cross-validation; no temporal or grouped split; PCA and SMOTE described before the partition"
+ },
+ "anwar_rows_detect": {
+  "value": 12001,
+  "loc": "Anwar et al. 2025, Table 2",
+  "note": ""
+ },
+ "anwar_rows_class": {
+  "value": 7861,
+  "loc": "Anwar et al. 2025, Table 2",
+  "note": ""
+ },
+ "shamim_rf_multi": {
+  "value": 99.81,
+  "loc": "Shamim et al. 2025, abstract (publisher abstract page)",
+  "note": "Random forest, multi-class; split not stated"
+ },
+ "shamim_rf_det": {
+  "value": 99.67,
+  "loc": "Shamim et al. 2025, abstract (publisher abstract page)",
+  "note": "Random forest, detection"
+ },
+ "_verified": "Full text (Anwar, nature.com) and abstract page (Shamim) read 23 Oct 2026"
+}

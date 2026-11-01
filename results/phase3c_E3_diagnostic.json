@@ -1,0 +1,16 @@
+{
+ "tail": {
+  "acc_relabelled": 0.6394849785407726,
+  "acc_other": 1.0,
+  "n_relabelled_test": 233.0,
+  "frac_errors_on_relabelled": 1.0,
+  "n_relabelled_train": 0
+ },
+ "random": {
+  "acc_relabelled": 0.8180171946112506,
+  "acc_other": 0.9949486043056277,
+  "n_relabelled_test": 47.8,
+  "frac_errors_on_relabelled": 0.5308641975308642
+ },
+ "n_relabelled_total": 233
+}

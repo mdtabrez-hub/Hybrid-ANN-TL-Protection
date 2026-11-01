@@ -1,0 +1,892 @@
+{
+ "dalstein1995": {
+  "doi": "10.1109/61.400828",
+  "status": "OK",
+  "title": "Neural network approach to fault classification for high speed protective relaying",
+  "container": "IEEE Transactions on Power Delivery",
+  "year": 1995,
+  "authors": [
+   [
+    "T.",
+    "Dalstein"
+   ],
+   [
+    "B.",
+    "Kulicke"
+   ]
+  ],
+  "volume": "10",
+  "issue": "2",
+  "page": "1002-1011"
+ },
+ "fahim2021": {
+  "doi": "10.1109/TPWRD.2021.3049861",
+  "status": "OK",
+  "title": "A Robust Self-Attentive Capsule Network for Fault Diagnosis of Series-Compensated Transmission Line",
+  "container": "IEEE Transactions on Power Delivery",
+  "year": 2021,
+  "authors": [
+   [
+    "Shahriar Rahman",
+    "Fahim"
+   ],
+   [
+    "Subrata K.",
+    "Sarker"
+   ],
+   [
+    "S. M.",
+    "Muyeen"
+   ],
+   [
+    "Md. Rafiqul Islam",
+    "Sheikh"
+   ],
+   [
+    "Sajal K.",
+    "Das"
+   ],
+   [
+    "Marcelo",
+    "Simoes"
+   ]
+  ],
+  "volume": "36",
+  "issue": "6",
+  "page": "3846-3857"
+ },
+ "shi2019": {
+  "doi": "10.1109/TSG.2018.2866487",
+  "status": "OK",
+  "title": "Fault Classification for Transmission Lines Based on Group Sparse Representation",
+  "container": "IEEE Transactions on Smart Grid",
+  "year": 2019,
+  "authors": [
+   [
+    "Shenxing",
+    "Shi"
+   ],
+   [
+    "Beier",
+    "Zhu"
+   ],
+   [
+    "Sohrab",
+    "Mirsaeidi"
+   ],
+   [
+    "Xinzhou",
+    "Dong"
+   ]
+  ],
+  "volume": "10",
+  "issue": "4",
+  "page": "4673-4682"
+ },
+ "song1997": {
+  "doi": "10.1016/S0378-7796(97)01168-1",
+  "status": "OK",
+  "title": "Comparison studies of five neural network based fault classifiers for complex transmission lines",
+  "container": "Electric Power Systems Research",
+  "year": 1997,
+  "authors": [
+   [
+    "Y.H.",
+    "Song"
+   ],
+   [
+    "Q.X.",
+    "Xuan"
+   ],
+   [
+    "A.T.",
+    "Johns"
+   ]
+  ],
+  "volume": "43",
+  "issue": "2",
+  "page": "125-132"
+ },
+ "aslan2026": {
+  "doi": "10.1016/j.nxener.2026.100703",
+  "status": "OK",
+  "title": "Artificial intelligence and deep learning approaches for fault diagnosis in power systems: A comprehensive survey",
+  "container": "Next Energy",
+  "year": 2026,
+  "authors": [
+   [
+    "Busra",
+    "Aslan"
+   ],
+   [
+    "Selami",
+    "Balci"
+   ],
+   [
+    "Ahmet",
+    "Kayabasi"
+   ],
+   [
+    "Muhammet Fatih",
+    "Aslan"
+   ],
+   [
+    "Merve",
+    "Sinay"
+   ]
+  ],
+  "volume": "12",
+  "issue": null,
+  "page": "100703"
+ },
+ "deepa2024": {
+  "doi": "10.1016/j.asej.2023.102427",
+  "status": "OK",
+  "title": "Deep learning techniques for transmission line fault classification \u2013 A comparative study",
+  "container": "Ain Shams Engineering Journal",
+  "year": 2024,
+  "authors": [
+   [
+    "Priyanka Khirwadkar",
+    "Shukla"
+   ],
+   [
+    "K.",
+    "Deepa"
+   ]
+  ],
+  "volume": "15",
+  "issue": "2",
+  "page": "102427"
+ },
+ "jamil2015": {
+  "doi": "10.1186/s40064-015-1080-x",
+  "status": "OK",
+  "title": "Fault detection and classification in electrical power transmission system using artificial neural network",
+  "container": "SpringerPlus",
+  "year": 2015,
+  "authors": [
+   [
+    "Majid",
+    "Jamil"
+   ],
+   [
+    "Sanjeev Kumar",
+    "Sharma"
+   ],
+   [
+    "Rajveer",
+    "Singh"
+   ]
+  ],
+  "volume": "4",
+  "issue": "1",
+  "page": "334"
+ },
+ "anwar2025": {
+  "doi": "10.1038/s41598-025-86554-2",
+  "status": "OK",
+  "title": "Robust fault detection and classification in power transmission lines via ensemble machine learning models",
+  "container": "Scientific Reports",
+  "year": 2025,
+  "authors": [
+   [
+    "Tahir",
+    "Anwar"
+   ],
+   [
+    "Chaoxu",
+    "Mu"
+   ],
+   [
+    "Muhammad Zain",
+    "Yousaf"
+   ],
+   [
+    "Wajid",
+    "Khan"
+   ],
+   [
+    "Saqib",
+    "Khalid"
+   ],
+   [
+    "Ahmad O.",
+    "Hourani"
+   ],
+   [
+    "Ievgen",
+    "Zaitsev"
+   ]
+  ],
+  "volume": "15",
+  "issue": "1",
+  "page": "2549"
+ },
+ "elghaly2025": {
+  "doi": "10.3390/eng6010004",
+  "status": "OK",
+  "title": "Hybrid ML Algorithm for Fault Classification in Transmission Lines Using Multi-Target Ensemble Classifier with Limited Data",
+  "container": "Eng",
+  "year": 2025,
+  "authors": [
+   [
+    "Abdallah",
+    "El Ghaly"
+   ]
+  ],
+  "volume": "6",
+  "issue": "1",
+  "page": "4"
+ },
+ "shamim2025": {
+  "doi": "10.1109/ICCIT68739.2025.11490154",
+  "status": "OK",
+  "title": "Machine Learning Based Framework for Optimizing Electrical Fault Detection and Classification in Power Systems",
+  "container": "2025 28th International Conference on Computer and Information Technology (ICCIT)",
+  "year": 2025,
+  "authors": [
+   [
+    "Md Mahamudur Rahaman",
+    "Shamim"
+   ],
+   [
+    "Mustakim",
+    "Ahmed"
+   ],
+   [
+    "Minul Khan",
+    "Rahat"
+   ],
+   [
+    "Md Aktar",
+    "Hossain"
+   ],
+   [
+    "Md. Mamun",
+    "Sarkar"
+   ],
+   [
+    "Abu",
+    "Shufian"
+   ]
+  ],
+  "volume": null,
+  "issue": null,
+  "page": "2467-2472"
+ },
+ "kapoor2023": {
+  "doi": "10.1016/j.patter.2023.100804",
+  "status": "OK",
+  "title": "Leakage and the reproducibility crisis in machine-learning-based science",
+  "container": "Patterns",
+  "year": 2023,
+  "authors": [
+   [
+    "Sayash",
+    "Kapoor"
+   ],
+   [
+    "Arvind",
+    "Narayanan"
+   ]
+  ],
+  "volume": "4",
+  "issue": "9",
+  "page": "100804"
+ },
+ "geirhos2020": {
+  "doi": "10.1038/s42256-020-00257-z",
+  "status": "OK",
+  "title": "Shortcut learning in deep neural networks",
+  "container": "Nature Machine Intelligence",
+  "year": 2020,
+  "authors": [
+   [
+    "Robert",
+    "Geirhos"
+   ],
+   [
+    "J\u00f6rn-Henrik",
+    "Jacobsen"
+   ],
+   [
+    "Claudio",
+    "Michaelis"
+   ],
+   [
+    "Richard",
+    "Zemel"
+   ],
+   [
+    "Wieland",
+    "Brendel"
+   ],
+   [
+    "Matthias",
+    "Bethge"
+   ],
+   [
+    "Felix A.",
+    "Wichmann"
+   ]
+  ],
+  "volume": "2",
+  "issue": "11",
+  "page": "665-673"
+ },
+ "roberts2017": {
+  "doi": "10.1111/ecog.02881",
+  "status": "OK",
+  "title": "Cross\u2010validation strategies for data with temporal, spatial, hierarchical, or phylogenetic structure",
+  "container": "Ecography",
+  "year": 2017,
+  "authors": [
+   [
+    "David R.",
+    "Roberts"
+   ],
+   [
+    "Volker",
+    "Bahn"
+   ],
+   [
+    "Simone",
+    "Ciuti"
+   ],
+   [
+    "Mark S.",
+    "Boyce"
+   ],
+   [
+    "Jane",
+    "Elith"
+   ],
+   [
+    "Gurutzeta",
+    "Guillera\u2010Arroita"
+   ],
+   [
+    "Severin",
+    "Hauenstein"
+   ],
+   [
+    "Jos\u00e9 J.",
+    "Lahoz\u2010Monfort"
+   ],
+   [
+    "Boris",
+    "Schr\u00f6der"
+   ],
+   [
+    "Wilfried",
+    "Thuiller"
+   ],
+   [
+    "David I.",
+    "Warton"
+   ],
+   [
+    "Brendan A.",
+    "Wintle"
+   ],
+   [
+    "Florian",
+    "Hartig"
+   ],
+   [
+    "Carsten F.",
+    "Dormann"
+   ]
+  ],
+  "volume": "40",
+  "issue": "8",
+  "page": "913-929"
+ },
+ "yasin2026": {
+  "doi": "10.15294/jte.v18i1.40675",
+  "status": "OK",
+  "title": "Leakage-Aware Fault Detection in Three-Phase Power Systems Using an Artificial Neural Network and Scenario-Based Data Splitting",
+  "container": "Jurnal Teknik Elektro",
+  "year": 2026,
+  "authors": [
+   [
+    "Verdi",
+    "Yasin"
+   ],
+   [
+    "Sri",
+    "Mardiyati"
+   ],
+   [
+    "Ifan",
+    "Junaedi"
+   ],
+   [
+    "Rumadi",
+    "Hartawan"
+   ],
+   [
+    "Ito Riris",
+    "Immasari"
+   ],
+   [
+    "Ruben Cornelius",
+    "Siagian"
+   ]
+  ],
+  "volume": "18",
+  "issue": "1",
+  "page": "19-33"
+ },
+ "chen2026": {
+  "doi": "10.1016/j.egyai.2026.100846",
+  "status": "OK",
+  "title": "Large-scale synthetic dataset and machine learning benchmark for fault localization in distribution systems",
+  "container": "Energy and AI",
+  "year": 2026,
+  "authors": [
+   [
+    "Zhonghe",
+    "Chen"
+   ],
+   [
+    "Adi",
+    "Botea"
+   ],
+   [
+    "Paula",
+    "Carroll"
+   ],
+   [
+    "Deepak",
+    "Ajwani"
+   ]
+  ],
+  "volume": "25",
+  "issue": null,
+  "page": "100846"
+ },
+ "dossantos2020": {
+  "doi": "10.1109/TPWRD.2019.2941432",
+  "status": "OK",
+  "title": "Transmission Line Fault Resistance Values Based on Field Data",
+  "container": "IEEE Transactions on Power Delivery",
+  "year": 2020,
+  "authors": [
+   [
+    "Andre",
+    "dos Santos"
+   ],
+   [
+    "Catarina",
+    "Gaspar"
+   ],
+   [
+    "Maria Teresa Correia",
+    "de Barros"
+   ],
+   [
+    "Patricia",
+    "Duarte"
+   ]
+  ],
+  "volume": "35",
+  "issue": "3",
+  "page": "1321-1329"
+ },
+ "chawla2002": {
+  "doi": "10.1613/jair.953",
+  "status": "OK",
+  "title": "SMOTE: Synthetic Minority Over-sampling Technique",
+  "container": "Journal of Artificial Intelligence Research",
+  "year": 2002,
+  "authors": [
+   [
+    "N. V.",
+    "Chawla"
+   ],
+   [
+    "K. W.",
+    "Bowyer"
+   ],
+   [
+    "L. O.",
+    "Hall"
+   ],
+   [
+    "W. P.",
+    "Kegelmeyer"
+   ]
+  ],
+  "volume": "16",
+  "issue": null,
+  "page": "321-357"
+ },
+ "srivastava2014": {
+  "status": "no DOI"
+ },
+ "kingma2015": {
+  "doi": "10.48550/arXiv.1412.6980",
+  "status": "OK",
+  "title": "Adam: A Method for Stochastic Optimization",
+  "container": "arXiv",
+  "year": 2014,
+  "authors": [
+   [
+    "Diederik P.",
+    "Kingma"
+   ],
+   [
+    "Jimmy",
+    "Ba"
+   ]
+  ],
+  "volume": null,
+  "issue": null,
+  "page": null
+ },
+ "pedregosa2011": {
+  "status": "no DOI"
+ },
+ "fayyad2021": {
+  "doi": "10.1080/15325008.2022.2050446",
+  "status": "OK",
+  "title": "Transmission Line Protection Using High-Speed Decision Tree and Artificial Neural Network: A Hardware Co-simulation Approach",
+  "container": "Electric Power Components and Systems",
+  "year": 2021,
+  "authors": [
+   [
+    "Amr Ahmed",
+    "Fayyad"
+   ],
+   [
+    "Amal Farouk",
+    "Abdel-Gawad"
+   ],
+   [
+    "Ahmed Mahmoud",
+    "Alenany"
+   ],
+   [
+    "Saber Mohamed",
+    "Saleh"
+   ]
+  ],
+  "volume": "49",
+  "issue": "13-14",
+  "page": "1181-1200"
+ },
+ "jacob2018": {
+  "doi": "10.1109/CVPR.2018.00286",
+  "status": "OK",
+  "title": "Quantization and Training of Neural Networks for Efficient Integer-Arithmetic-Only Inference",
+  "container": "2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+  "year": 2018,
+  "authors": [
+   [
+    "Benoit",
+    "Jacob"
+   ],
+   [
+    "Skirmantas",
+    "Kligys"
+   ],
+   [
+    "Bo",
+    "Chen"
+   ],
+   [
+    "Menglong",
+    "Zhu"
+   ],
+   [
+    "Matthew",
+    "Tang"
+   ],
+   [
+    "Andrew",
+    "Howard"
+   ],
+   [
+    "Hartwig",
+    "Adam"
+   ],
+   [
+    "Dmitry",
+    "Kalenichenko"
+   ]
+  ],
+  "volume": null,
+  "issue": null,
+  "page": "2704-2713"
+ },
+ "koley2016": {
+  "doi": "10.1016/j.ijepes.2016.02.015",
+  "status": "OK",
+  "title": "Low cost microcontroller based fault detector, classifier, zone identifier and locator for transmission lines using wavelet transform and artificial neural network: A hardware co-simulation approach",
+  "container": "International Journal of Electrical Power &amp; Energy Systems",
+  "year": 2016,
+  "authors": [
+   [
+    "Ebha",
+    "Koley"
+   ],
+   [
+    "Raunak",
+    "Kumar"
+   ],
+   [
+    "Subhojit",
+    "Ghosh"
+   ]
+  ],
+  "volume": "81",
+  "issue": null,
+  "page": "346-360"
+ },
+ "fortescue1918": {
+  "doi": "10.1109/T-AIEE.1918.4765570",
+  "status": "OK",
+  "title": "Method of Symmetrical Co-Ordinates Applied to the Solution of Polyphase Networks",
+  "container": "Transactions of the American Institute of Electrical Engineers",
+  "year": 1918,
+  "authors": [
+   [
+    "C. L.",
+    "Fortescue"
+   ]
+  ],
+  "volume": "XXXVII",
+  "issue": "2",
+  "page": "1027-1140"
+ },
+ "c37113": {
+  "doi": "10.1109/IEEESTD.2016.7502047",
+  "status": "OK",
+  "title": "IEEE Guide for Protective Relay Applications to Transmission Lines",
+  "container": "IEEE",
+  "year": null,
+  "authors": [],
+  "volume": null,
+  "issue": null,
+  "page": null
+ },
+ "abadi2016": {
+  "doi": "10.48550/arXiv.1603.04467",
+  "status": "OK",
+  "title": "TensorFlow: Large-Scale Machine Learning on Heterogeneous Distributed Systems",
+  "container": "arXiv",
+  "year": 2016,
+  "authors": [
+   [
+    "Mart\u00edn",
+    "Abadi"
+   ],
+   [
+    "Ashish",
+    "Agarwal"
+   ],
+   [
+    "Paul",
+    "Barham"
+   ],
+   [
+    "Eugene",
+    "Brevdo"
+   ],
+   [
+    "Zhifeng",
+    "Chen"
+   ],
+   [
+    "Craig",
+    "Citro"
+   ],
+   [
+    "Greg S.",
+    "Corrado"
+   ],
+   [
+    "Andy",
+    "Davis"
+   ],
+   [
+    "Jeffrey",
+    "Dean"
+   ],
+   [
+    "Matthieu",
+    "Devin"
+   ],
+   [
+    "Sanjay",
+    "Ghemawat"
+   ],
+   [
+    "Ian",
+    "Goodfellow"
+   ],
+   [
+    "Andrew",
+    "Harp"
+   ],
+   [
+    "Geoffrey",
+    "Irving"
+   ],
+   [
+    "Michael",
+    "Isard"
+   ],
+   [
+    "Yangqing",
+    "Jia"
+   ],
+   [
+    "Rafal",
+    "Jozefowicz"
+   ],
+   [
+    "Lukasz",
+    "Kaiser"
+   ],
+   [
+    "Manjunath",
+    "Kudlur"
+   ],
+   [
+    "Josh",
+    "Levenberg"
+   ],
+   [
+    "Dan",
+    "Mane"
+   ],
+   [
+    "Rajat",
+    "Monga"
+   ],
+   [
+    "Sherry",
+    "Moore"
+   ],
+   [
+    "Derek",
+    "Murray"
+   ],
+   [
+    "Chris",
+    "Olah"
+   ],
+   [
+    "Mike",
+    "Schuster"
+   ],
+   [
+    "Jonathon",
+    "Shlens"
+   ],
+   [
+    "Benoit",
+    "Steiner"
+   ],
+   [
+    "Ilya",
+    "Sutskever"
+   ],
+   [
+    "Kunal",
+    "Talwar"
+   ],
+   [
+    "Paul",
+    "Tucker"
+   ],
+   [
+    "Vincent",
+    "Vanhoucke"
+   ],
+   [
+    "Vijay",
+    "Vasudevan"
+   ],
+   [
+    "Fernanda",
+    "Viegas"
+   ],
+   [
+    "Oriol",
+    "Vinyals"
+   ],
+   [
+    "Pete",
+    "Warden"
+   ],
+   [
+    "Martin",
+    "Wattenberg"
+   ],
+   [
+    "Martin",
+    "Wicke"
+   ],
+   [
+    "Yuan",
+    "Yu"
+   ],
+   [
+    "Xiaoqiang",
+    "Zheng"
+   ]
+  ],
+  "volume": null,
+  "issue": null,
+  "page": null
+ },
+ "hemza2025": {
+  "doi": "10.1109/ICAAID68975.2025.11358232",
+  "status": "OK",
+  "title": "Machine Learning Diagnosis-Based of HVDC Faults",
+  "container": "2025 5th International Conference on Applied Automation and Industrial Diagnostics (ICAAID)",
+  "year": 2025,
+  "authors": [
+   [
+    "Medoukali",
+    "Hemza"
+   ],
+   [
+    "Bouras",
+    "Taha"
+   ],
+   [
+    "Djamal",
+    "Blidi"
+   ],
+   [
+    "Boubakeur",
+    "Zegnini"
+   ]
+  ],
+  "volume": null,
+  "issue": null,
+  "page": "1-5"
+ },
+ "breiman2001": {
+  "doi": "10.1023/A:1010933404324",
+  "status": "OK",
+  "title": "Random Forests",
+  "container": "Machine Learning",
+  "year": 2001,
+  "authors": [
+   [
+    "Leo",
+    "Breiman"
+   ]
+  ],
+  "volume": "45",
+  "issue": "1",
+  "page": "5-32",
+  "verified": "Crossref API, 23 Oct 2026"
+ }
+}

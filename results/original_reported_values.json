@@ -1,0 +1,134 @@
+{
+ "_note": "Values REPORTED in the source manuscript (author's original Keras pipeline, single seed 42). Not independently verified: the author's code, weights and result files are unavailable. Locations refer to the source DOCX (SHA-256 7e1ceaca...d319902).",
+ "det_acc_random": {
+  "value": 99.79,
+  "unit": "%",
+  "loc": "Abstract; Table 10; Table 14"
+ },
+ "det_auc_random": {
+  "value": 0.99997,
+  "loc": "Table 10"
+ },
+ "det_acc_blocked": {
+  "value": 99.63,
+  "unit": "%",
+  "loc": "Table 14"
+ },
+ "ml_exact_random": {
+  "value": 84.49,
+  "unit": "%",
+  "loc": "Table 8"
+ },
+ "ml_exact_blocked": {
+  "value": 74.95,
+  "unit": "%",
+  "loc": "Table 14"
+ },
+ "six_acc_fig7": {
+  "value": 85.57,
+  "unit": "%",
+  "loc": "Table 11; Fig 7"
+ },
+ "six_acc_random_tab14": {
+  "value": 85.44,
+  "unit": "%",
+  "loc": "Table 14 (random column)"
+ },
+ "six_acc_blocked": {
+  "value": 74.0,
+  "unit": "%",
+  "loc": "Table 14"
+ },
+ "merged_random_tab14": {
+  "value": 98.47,
+  "unit": "%",
+  "loc": "Table 14"
+ },
+ "merged_blocked": {
+  "value": 82.45,
+  "unit": "%",
+  "loc": "Table 14"
+ },
+ "merged_fig7": {
+  "value": 98.66,
+  "unit": "%",
+  "loc": "Section 6.3"
+ },
+ "pair_error_share_fig7": {
+  "value": 90.7,
+  "unit": "%",
+  "loc": "Section 6.3; Fig 7"
+ },
+ "lllg_recall_fig7": {
+  "value": 6.61,
+  "unit": "%",
+  "loc": "Table 11"
+ },
+ "lllg_recall_random_tab14": {
+  "value": 7.05,
+  "unit": "%",
+  "loc": "Table 14"
+ },
+ "lllg_recall_blocked": {
+  "value": 44.93,
+  "unit": "%",
+  "loc": "Table 14"
+ },
+ "lll_recall_fig7": {
+  "value": 97.72,
+  "unit": "%",
+  "loc": "Table 11"
+ },
+ "robust_acc": {
+  "value": 93.07,
+  "unit": "%",
+  "loc": "Table 12"
+ },
+ "noclip_robust_acc": {
+  "value": 94.53,
+  "unit": "%",
+  "loc": "Table 13 (variant D)"
+ },
+ "smote_acc": {
+  "value": 85.25,
+  "unit": "%",
+  "loc": "Section 6.3; Fig 9"
+ },
+ "sklearn_crosscheck": {
+  "value": 84.17,
+  "unit": "%",
+  "loc": "Table 8"
+ },
+ "int8_cost_pp": {
+  "value": 0.25,
+  "unit": "pp",
+  "loc": "Section 7.2"
+ },
+ "int8_flips": {
+  "value": "122/6292",
+  "loc": "Table 15"
+ },
+ "flash_int8": {
+  "value": 7350,
+  "unit": "B",
+  "loc": "Table 16"
+ },
+ "sram_int8": {
+  "value": 794,
+  "unit": "B",
+  "loc": "Table 16"
+ },
+ "params": {
+  "value": 4310,
+  "loc": "Table 6 (six-class head)"
+ },
+ "score_max_delta": {
+  "value": "8.4e-7",
+  "loc": "Section 7.1"
+ },
+ "robust_gain_pp": {
+  "value": 7.5,
+  "unit": "pp",
+  "loc": "Table 12 (robust vs min-max, single seed)"
+ }
+}

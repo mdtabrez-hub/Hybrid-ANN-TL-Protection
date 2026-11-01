@@ -1,0 +1,11 @@
+regime,label,conducting,n_per_seed,acc_vs_label,acc_vs_conducting,pred_dist
+partial_interruption,LL,other,5.0,1.0,,{'LL': 1.0}
+partial_interruption,LLL,AB(0011),91.0,0.136,,"{'LLG': 0.8, 'LLL': 0.14, 'LLLG': 0.06, 'NoFault': 0.0}"
+partial_interruption,LLG,LG,66.0,0.394,0.606,"{'LG': 0.61, 'LLG': 0.39}"
+partial_interruption,LLLG,LG,66.0,0.0,0.594,"{'LG': 0.59, 'LLG': 0.41}"
+partial_interruption,LLLG,LLG,60.0,0.133,0.617,"{'LLG': 0.62, 'LLL': 0.25, 'LLLG': 0.13}"
+post_interruption,LL,LL,5.0,1.0,1.0,{'LL': 1.0}
+post_interruption,LLL,LLL,8.0,0.0,0.0,"{'NoFault': 0.82, 'LLG': 0.18}"
+post_interruption,LG,LG,7.0,1.0,1.0,{'LG': 1.0}
+post_interruption,LLG,LLG,11.0,0.0,0.0,{'LG': 1.0}
+post_interruption,LLLG,LLLG,10.0,0.0,0.0,{'LG': 1.0}

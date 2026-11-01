@@ -1,0 +1,37 @@
+seed,row,t_ms,regime,label,category,event,dist_ms,faulted_phase_absI,event_faulted_peak
+0,5531,276.55,healthy,0,healthy row just after label end,0110,0.025,,
+0,1633,81.65,healthy,0,healthy row just after label end,1001,0.025,,
+0,0,0.0,healthy,0,simulation start,,25.175,,
+0,5536,276.8,healthy,0,healthy row just after label end,0110,0.275,,
+0,1637,81.85000000000001,healthy,0,healthy row just after label end,1001,0.225,,
+0,1639,81.95,healthy,0,healthy row just after label end,1001,0.325,,
+0,5540,277.0,healthy,0,healthy row just after label end,0110,0.47500000000000003,,
+0,841,42.050000000000004,sustained,1,fault row missed,1001,16.875,5.81718165850971,879.342097316604
+1,5536,276.8,healthy,0,healthy row just after label end,0110,0.275,,
+1,5534,276.7,healthy,0,healthy row just after label end,0110,0.17500000000000002,,
+1,4739,236.95000000000002,sustained,1,fault row missed,0110,10.625,43.1641616716588,792.181223340566
+1,1633,81.65,healthy,0,healthy row just after label end,1001,0.025,,
+1,5140,257.0,sustained,1,fault row missed,0110,19.525000000000002,34.97778709639,792.181223340566
+1,845,42.25,sustained,1,fault row missed,1001,17.075,60.9372687018488,879.342097316604
+1,1634,81.7,healthy,0,healthy row just after label end,1001,0.07500000000000001,,
+2,5533,276.65000000000003,healthy,0,healthy row just after label end,0110,0.125,,
+2,1,0.05,healthy,0,simulation start,,25.125,,
+2,5539,276.95,healthy,0,healthy row just after label end,0110,0.42500000000000004,,
+2,0,0.0,healthy,0,simulation start,,25.175,,
+2,5542,277.1,healthy,0,healthy row just after label end,0110,0.5750000000000001,,
+2,5540,277.0,healthy,0,healthy row just after label end,0110,0.47500000000000003,,
+2,3638,181.9,healthy,0,healthy row just after label end,1011,0.07500000000000001,,
+2,5532,276.6,healthy,0,healthy row just after label end,0110,0.07500000000000001,,
+2,840,42.0,sustained,1,fault row missed,1001,16.825,7.97522452727596,879.342097316604
+2,1635,81.75,healthy,0,healthy row just after label end,1001,0.125,,
+3,5533,276.65000000000003,healthy,0,healthy row just after label end,0110,0.125,,
+3,9637,481.85,healthy,0,healthy row just after label end,1111,0.07500000000000001,,
+3,5538,276.90000000000003,healthy,0,healthy row just after label end,0110,0.375,,
+3,9636,481.8,healthy,0,healthy row just after label end,1111,0.025,,
+4,1239,61.95,sustained,1,fault row missed,1001,19.675,21.6072657856229,879.342097316604
+4,842,42.1,sustained,1,fault row missed,1001,16.925,19.6080335471392,879.342097316604
+4,838,41.900000000000006,sustained,1,fault row missed,1001,16.725,35.5510807768367,879.342097316604
+4,1242,62.1,sustained,1,fault row missed,1001,19.525000000000002,19.7559390721263,879.342097316604
+4,5535,276.75,healthy,0,healthy row just after label end,0110,0.225,,
+4,1237,61.85,sustained,1,fault row missed,1001,19.775000000000002,49.1617387336581,879.342097316604
+4,1634,81.7,healthy,0,healthy row just after label end,1001,0.07500000000000001,,

@@ -1,0 +1,14 @@
+{
+ "excl_acc_phys": 0.6052083333333333,
+ "excl_acc_label": 0.17708333333333334,
+ "excl_rows_per_seed": 192.0,
+ "excl_LLL_to_LLG": 0.8043956043956044,
+ "robust_gain_big_min": 0.0884,
+ "robust_gain_big_max": 0.1024,
+ "robust_gain_n_big": 3,
+ "robust_gain_small_maxabs": 0.007,
+ "clip_effect_maxabs": 0.003944020356234,
+ "llg_to_lg_random": 0.04140969162995595,
+ "band_fraction_minmax": 0.00010426202038694863,
+ "guard_maxabs": 0.0131293817718291
+}
