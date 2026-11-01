@@ -1,0 +1,1 @@
+{"seed": 1, "tag": "C2", "thr": 300, "data": "E1", "part": "tail", "n_removed": 352, "res": {"RF": {"acc": 1.0, "pair_acc": 1.0, "n_test": 1217}, "MLP": {"acc": 0.9030402629416598, "pair_acc": 0.4380952380952381, "n_test": 1217}}}

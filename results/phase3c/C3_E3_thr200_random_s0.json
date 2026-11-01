@@ -1,0 +1,1 @@
+{"seed": 0, "tag": "C3", "thr": 200, "data": "E3", "part": "random", "n_removed": 91, "res": {"RF": {"acc": 0.9916506101477199, "pair_acc": 1.0, "n_test": 1557}, "MLP": {"acc": 0.8542068079640334, "pair_acc": 0.472636815920398, "n_test": 1557}}}
