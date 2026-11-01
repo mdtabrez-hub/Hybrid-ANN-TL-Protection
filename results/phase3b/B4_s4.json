@@ -1,0 +1,1 @@
+{"seed": 4, "n_test": 2401, "n_err": 7, "acc": 0.9970845481049563, "err_rows": [1239, 842, 838, 1242, 5535, 1237, 1634], "err_dist_ms": [19.675, 16.925, 16.725, 19.525000000000002, 0.225, 19.775000000000002, 0.07500000000000001], "err_regime": ["sustained", "sustained", "sustained", "sustained", "healthy", "sustained", "healthy"], "err_true": [1, 1, 1, 1, 0, 1, 0]}

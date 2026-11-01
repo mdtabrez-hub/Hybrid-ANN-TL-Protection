@@ -1,0 +1,1 @@
+{"seed": 0, "frac": 1.0, "n_train": 6288, "RF": {"acc": 0.9980928162746344, "merged": 0.9980928162746344, "pair_acc": 1.0, "nonpair_acc": 0.997338065661047, "nonpair_err": 3, "n_test": 1573}, "MLP": {"acc": 0.8486967577876668, "merged": 0.9802924348378894, "pair_acc": 0.5, "nonpair_acc": 0.9866903283052352, "nonpair_err": 31, "n_test": 1573}}
