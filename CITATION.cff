@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "Auditing a Public Transmission-Line Fault Dataset: reproducibility code"
+type: software
+authors:
+  - family-names: Tabrez
+    given-names: Md
+    affiliation: "Department of Electrical and Electronics Engineering, Motihari College of Engineering, Motihari, Bihar, India"
+    orcid: "https://orcid.org/0000-0002-0829-1258"
+repository-code: "https://github.com/mdtabrez-hub/Hybrid-ANN-Proteus-TL-Protection"
+license: MIT
+date-released: "2026-11-01"
+keywords:
+  - transmission line protection
+  - fault classification
+  - data leakage
+  - shortcut learning
+  - simulation datasets
