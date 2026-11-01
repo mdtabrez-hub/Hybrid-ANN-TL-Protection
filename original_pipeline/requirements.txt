@@ -1,0 +1,13 @@
+# Versions used for the check described in README.md (Python 3.13)
+tensorflow==2.21.0
+keras==3.15.1
+scikit-learn==1.9.1
+imbalanced-learn==0.14.2
+numpy
+pandas
+scipy==1.18.1
+matplotlib==3.11.2
+joblib==1.6.0
+h5py==3.14.0
+PyWavelets==1.8.0
+pandapower==3.5.6
