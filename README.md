@@ -30,7 +30,7 @@ The classifiers are an **independent implementation** of the configuration repor
 | `code/run_phase3c.py`, `code/aggregate_phase3c.py`, `code/diag_e3.py` | Protocol Addendum C: permutation importance (C1), interruption-threshold sensitivity (C2), relabelling by circuit state (C3); Fig. 7. `diag_e3.py` is a post-hoc check, labelled as such. |
 | `code/run_phase3d.py` | Protocol Addendum D: tail-error composition by regime for every model family; Fig. 6 |
 | `docs/PHASE3_EXPERIMENT_PROTOCOL.md` | The analysis protocol, fixed before training, with Addenda B–D |
-| `results/` | All outputs used in the manuscript: per-run JSON (`runs/`, `phase3b/`, `phase3c/`), run tables, summaries, `data_facts.json`, `derived.json`, `RESULTS_TABLES.md`. `original_reported_values.json` holds the earlier version's reported numbers for comparison; `literature_values.json` holds values quoted from other studies. |
+| `results/` | All outputs used in the manuscript: per-run JSON (`runs/`, `phase3b/`, `phase3c/`), run tables, summaries, `data_facts.json`, `derived.json`, `RESULTS_TABLES.md`. `excluded_rows_predictions.csv.gz` is gzip-compressed (pandas reads it directly). `original_reported_values.json` holds the earlier version's reported numbers for comparison; `literature_values.json` holds values quoted from other studies. |
 | `figures/` | Manuscript figures (see the mapping below) |
 | `data/checksums.sha256` | SHA-256 of the three input files. The data are not redistributed (see below). |
 | `scripts/fetch_data.sh`, `scripts/run_all.sh` | Fetch and verify the dataset; run the whole pipeline |
