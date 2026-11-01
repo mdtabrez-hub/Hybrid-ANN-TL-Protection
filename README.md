@@ -36,6 +36,7 @@ The classifiers are an **independent implementation** of the configuration repor
 | `scripts/fetch_data.sh`, `scripts/run_all.sh` | Fetch and verify the dataset; run the whole pipeline |
 | `environment.txt`, `requirements.txt` | Library versions used |
 | `LIMITATIONS.md` | Known issues |
+| `original_pipeline/` | Code of the **earlier** (Elsevier-format) version of the study: Keras pipeline, MATLAB/Octave and C stages, Proteus firmware scaffold, and the pandapower relay-coordination study. Not needed for the current manuscript; see its own README. |
 
 Figure file → manuscript figure: `fig0_topology` → 1, `fig1_timeline_col` → 2, `fig3_confusion` → 3, `fig2_zero_sequence` → 4, `fig4_partitions` → 5, `fig9_error_composition` → 6, `fig7_importance` → 7, `fig5_shortcut` → 8, `fig6_learning_curve` → 9.
 

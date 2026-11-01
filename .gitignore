@@ -4,3 +4,9 @@ __pycache__/
 *.pyc
 .DS_Store
 .ipynb_checkpoints/
+original_pipeline/data/*.csv
+original_pipeline/out/
+original_pipeline/figs/
+original_pipeline/etap/results/
+original_pipeline/etap/calibration.json
+original_pipeline/etap/calibration_report.md
